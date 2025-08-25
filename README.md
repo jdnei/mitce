@@ -21,3 +21,7 @@
 ## 测速
 ### 测速2025年8月 联通
 ![imgage](https://github.com/jdnei/mitce/blob/main/img/LT-photo_2025-08-25_04-27-08.jpg)
+### 测速2025年8月 电信
+![imgage](https://github.com/jdnei/mitce/blob/main/img/DX-photo_2025-08-25_04-27-24.jpg)
+### 测速2025年8月 移动
+![imgage](https://github.com/jdnei/mitce/blob/main/img/YD-photo_2025-08-25_04-27-41.jpg)
