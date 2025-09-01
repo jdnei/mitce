@@ -18,6 +18,8 @@
 | Standard   | $1.20 USD | 月繳 | 免設定費 | 500GB      | 每月重置 | 1000Mbps     | 5 个       | 支持           | 是          | Reality    |
 | Pro        | $2.00 USD | 月繳 | 免設定費 | 1000GB     | 每月重置 | 1000Mbps     | 5 个       | 支持           | 是          | Reality    |
 | 無限流量套裝 | $3.00 USD | 月繳 | 免設定費 | 不限制       | 免費重置 | 1000Mbps     | 10 个      | 支持           | 是          | Reality    |
+## 解锁流媒体
+![imgage](https://github.com/jdnei/mitce/blob/main/img/JS-photo_2025-09-01_05-36-55.jpg)
 ## 测速
 ### 测速2025年8月 联通
 ![imgage](https://github.com/jdnei/mitce/blob/main/img/LT-photo_2025-08-25_04-27-08.jpg)
