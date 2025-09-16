@@ -18,6 +18,42 @@
 | Standard   | $1.20 USD | 月繳 | 免設定費 | 500GB      | 每月重置 | 1000Mbps     | 5 个       | 支持           | 是          | Reality    |
 | Pro        | $2.00 USD | 月繳 | 免設定費 | 1000GB     | 每月重置 | 1000Mbps     | 5 个       | 支持           | 是          | Reality    |
 | 無限流量套裝 | $3.00 USD | 月繳 | 免設定費 | 不限制       | 免費重置 | 1000Mbps     | 10 个      | 支持           | 是          | Reality    |
+## 节点信息
+| 名称 | 状态 | 地区 | 协议 | 标签 |
+| :--- | :--- | :--- | :--- | :--- |
+| HK-1 | 在線 | 🇭🇰 HK | vless | HK |
+| HK-2 | 在線 | 🇭🇰 HK | vless | HK |
+| HK3-HY2 | 在線 | 🇭🇰 HK | hysteria2 | HY2 |
+| HK4-HY2 | 在線 | 🇭🇰 HK | hysteria2 | HY2 |
+| HK5-HY2 | 在線 | 🇭🇰 HK | hysteria2 | HY2 |
+| JP-1 | 在線 | 🇯🇵 JP | vless | JP |
+| JP-2 | 在線 | 🇯🇵 JP | vless | JP |
+| JP1-HY2 | 在線 | 🇯🇵 JP | hysteria2 | HY2 |
+| JP2-HY2 | 在線 | 🇯🇵 JP | hysteria2 | HY2 |
+| JP3-HY2 | 在線 | 🇯🇵 JP | hysteria2 | HY2 |
+| JP4-HY2 | 在線 | 🇯🇵 JP | hysteria2 | HY2 |
+| JP5-HY2 | 在線 | 🇯🇵 JP | hysteria2 | HY2 |
+| KR-1 | 在線 | 🇰🇷 KR | vless | KR |
+| KR-2 | 在線 | 🇰🇷 KR | vless | KR |
+| KR-3 | 在線 | 🇰🇷 KR | vless | KR |
+| KR-4 | 在線 | 🇰🇷 KR | vless | KR |
+| KR-5 | 在線 | 🇰🇷 KR | vless | KR |
+| SG-1 | 在線 | 🇸🇬 SG | vless | SG |
+| SG-2 | 在線 | 🇸🇬 SG | vless | SG |
+| SG-3 | 在線 | 🇸🇬 SG | vless | SG |
+| SG-4 | 在線 | 🇸🇬 SG | vless | SG |
+| SG-5 | 在線 | 🇸🇬 SG | vless | SG |
+| TW1-HY2 | 在線 | 🇹🇼 TW | hysteria2 | HY2 |
+| TW2-HY2 | 在線 | 🇹🇼 TW | hysteria2 | HY2 |
+| TW3-HY2 | 在線 | 🇹🇼 TW | hysteria2 | HY2 |
+| TW4-HY2 | 在線 | 🇹🇼 TW | hysteria2 | HY2 |
+| TW5-HY2 | 在線 | 🇹🇼 TW | hysteria2 | HY2 |
+| US-1 | 在線 | 🇺🇸 US | vless | US |
+| US-2 | 在線 | 🇺🇸 US | vless | US |
+| US-3 | 在線 | 🇺🇸 US | vless | US |
+| US3-HY2 | 在線 | 🇺🇸 US | hysteria2 | HY2 |
+| US4-HY2 | 在線 | 🇺🇸 US | hysteria2 | HY2 |
+| US5-HY2 | 在線 | 🇺🇸 US | hysteria2 | HY2 |
 ## 解锁流媒体
 ![imgage](https://github.com/jdnei/mitce/blob/main/img/JS-photo_2025-09-01_05-36-55.jpg)
 ## 测速
