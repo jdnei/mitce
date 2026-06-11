@@ -1,5 +1,9 @@
 # Mitce机场官方地址(2026年6月11日更新)
 最新地址：[mitce.net](https://mitce.net/aff.php?aff=10724)
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)  
+
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 简介
 “Mitce机场”通常指的是一种提供网络加速服务的“机场”，这类服务旨在帮助用户突破网络限制，访问被屏蔽的海外网站或服务。以下是一些关于这类服务的通用信息，以及我找到的关于“奈云机场”的相关信息：
 ## 优势
