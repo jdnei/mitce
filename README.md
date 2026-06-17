@@ -1,4 +1,4 @@
-# Mitce机场官方地址(2026年6月16日更新)
+# Mitce机场官方地址(2026年6月17日更新)
 最新地址：[mitce.io](https://mitce.io/aff.php?aff=10724)
 ## Telegram VPN 机场福利社 #AD
 [机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)  
