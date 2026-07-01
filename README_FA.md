@@ -1,5 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-# آدرس رسمی Mitce Airport (به‌روزرسانی 1 ژوئیه 2026)
+# آدرس رسمی Mitce Airport (به‌روزرسانی 2 ژوئیه 2026)
 
 آخرین آدرس: [mitce.io](https://mitce.io/aff.php?aff=10724)
 
