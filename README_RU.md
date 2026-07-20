@@ -1,5 +1,5 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
-# Официальный адрес Mitce Airport (обновлено 20 июля 2026)
+# Официальный адрес Mitce Airport (обновлено 21 июля 2026)
 
 Актуальный адрес: [mitce.io](https://mitce.io/aff.php?aff=10724)
 
