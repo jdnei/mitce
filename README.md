@@ -3,7 +3,7 @@
 
 # Mitce机场官方地址(2026年7月27日更新)
 Mitce机场官网地址</br>
-最新地址：[mitce.io](https://mitce.io/aff.php?aff=10724)
+最新地址：[mitce.io](https://to.iix.im/mt01)
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
