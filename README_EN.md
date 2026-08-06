@@ -1,39 +1,57 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
-# Mitce Airport Official Address (Updated August 6, 2026)
 
-Latest Address: [mitce.io](https://mitce.io/aff.php?aff=10724)
+# Mitce VPN Official Address (Updated August 6, 2026)
 
-## Telegram VPN Airport Benefits Group #AD
+Mitce VPN Official Website Address</br>
+Latest Address: [mitce.io](https://to.iix.im/mt01)
 
-[Airport Lottery Group](https://331024.de/archives/choujiang)｜[Airport Chat Group](https://331024.de/archives/choujiang)｜[Airport Trial Group](https://331024.de/archives/choujiang)</br>
+Recommended VPN Services and Node Sharing for 2026: https://github.com/jdnei/JiChangTuiJian</br>
+
+## Telegram VPN Deals Community #AD
+
+[VPN Giveaway Group](https://331024.de/archives/choujiang)｜[VPN Chat Group](https://331024.de/archives/choujiang)｜[VPN Trial Group](https://331024.de/archives/choujiang)</br>
 
 https://331024.de/archives/choujiang
 
 ## Introduction
 
-“Mitce Airport” usually refers to an “airport” service that provides network acceleration. Such services are designed to help users bypass network restrictions and access blocked overseas websites or services. Below is some general information about this type of service, as well as related information found about “Naiyun Airport”:
+“Mitce VPN” generally refers to a type of VPN service that provides network acceleration. These services are designed to help users bypass network restrictions and access blocked overseas websites or services. Below is some general information about this type of service, along with related information I found about “Naiyun VPN”:
 
 ## Advantages
 
-International Global Accelerator dedicated-line acceleration network, with SLA protection for all nodes</br>
-Supports proxy clients on all major platforms, including Windows/MacOS/Linux/Android/iOS</br>
-Lines support unlocking overseas streaming services such as Netflix/TVB/ABEMATV;</br>
-No device quantity limit, no speed limit, and theoretically unlimited simultaneous users;</br>
-Supports Alipay and cryptocurrency payments, convenient and fast;</br>
-Supports ticket submission and Telegram online customer service, with fast responses.</br>
-Provides unlimited-traffic plan services</br>
-Provides Hong Kong residential IP support, which can be used for Talkatone login and more</br>
+International Global Accelerator dedicated-line acceleration network, with SLA guarantees for all nodes</br>
+Supports proxy clients on Windows/MacOS/Linux/Android/iOS and other major platforms</br>
+Routes support unlocking overseas streaming services such as Netflix/TVB/ABEMATV;</br>
+No device quantity limit and no speed limit; theoretically supports unlimited simultaneous users;</br>
+Supports payments via Alipay and cryptocurrency for convenient and fast payment;</br>
+Supports support-ticket submission and TG online customer service with fast responses.</br>
+Provides `unlimited traffic` plans</br>
+Provides `Hong Kong residential IP` and `residential broadband` support, which can be used for Talkatone login and similar purposes</br>
 
 ## Plans
 
-| Version                   | Price     | Cycle   | Setup Fee    | Monthly Traffic | Traffic Reset | Dynamic Speed | Connected Devices | ChatGPT & Streaming | Residential IP Included | Protocol |
-| ------------------------- | --------- | ------- | ------------ | --------------- | ------------- | ------------- | ----------------- | ------------------- | ----------------------- | -------- |
-| Basic                     | $0.60 USD | Monthly | No setup fee | 100GB           | Monthly reset | 1000Mbps      | 5 devices         | Supported           | Yes                     | Reality  |
-| Standard                  | $1.20 USD | Monthly | No setup fee | 500GB           | Monthly reset | 1000Mbps      | 5 devices         | Supported           | Yes                     | Reality  |
-| Pro                       | $2.00 USD | Monthly | No setup fee | 1000GB          | Monthly reset | 1000Mbps      | 5 devices         | Supported           | Yes                     | Reality  |
-| Unlimited Traffic Package | $3.00 USD | Monthly | No setup fee | Unlimited       | Free reset    | 1000Mbps      | 10 devices        | Supported           | Yes                     | Reality  |
+| Version                   | Price     | Billing Cycle | Setup Fee    | Monthly Traffic | Traffic Reset | Dynamic Speed | Connected Devices | ChatGPT & Streaming | Residential IP Included | Protocol |
+| ------------------------- | --------- | ------------- | ------------ | --------------- | ------------- | ------------- | ----------------- | ------------------- | ----------------------- | -------- |
+| Basic                     | $0.60 USD | Monthly       | No Setup Fee | 100GB           | Monthly Reset | 1000Mbps      | 5                 | Supported           | Yes                     | Reality  |
+| Standard                  | $1.20 USD | Monthly       | No Setup Fee | 500GB           | Monthly Reset | 1000Mbps      | 5                 | Supported           | Yes                     | Reality  |
+| Pro                       | $2.00 USD | Monthly       | No Setup Fee | 1000GB          | Monthly Reset | 1000Mbps      | 5                 | Supported           | Yes                     | Reality  |
+| Unlimited Traffic Package | $3.00 USD | Monthly       | No Setup Fee | Unlimited       | Free Reset    | 1000Mbps      | 10                | Supported           | Yes                     | Reality  |
 
-## Node Information
+## 📊 Performance Tests and Analysis
+
+#### 1. Peak-Hour Speed Test Performance
+
+![image](https://github.com/jdnei/mitce/blob/main/img/MiaoKo-c.%20.%20.net-6723-speed.png?raw=ture)
+
+#### 2. Streaming Unlock Report
+
+![image](https://github.com/jdnei/mitce/blob/main/img/MiaoKo-c.%20.%20.net-8300-test.png?raw=ture)
+
+#### 3. Exit Node and Entry Route Analysis
+
+![image](https://github.com/jdnei/mitce/blob/main/img/MiaoKo-c.%20.%20.net-8905-analyze.png?raw=ture)
+
+#### 4. Server Information Summary
 
 | Name    | Status | Region  | Protocol  | Tag |
 | :------ | :----- | :------ | :-------- | :-- |
@@ -70,17 +88,3 @@ Provides Hong Kong residential IP support, which can be used for Talkatone login
 | US3-HY2 | Online | 🇺🇸 US | hysteria2 | HY2 |
 | US4-HY2 | Online | 🇺🇸 US | hysteria2 | HY2 |
 | US5-HY2 | Online | 🇺🇸 US | hysteria2 | HY2 |
-
-## 📊 Performance Test and Analysis
-
-#### 1. Evening Peak Speed Test Performance
-
-![image](https://github.com/jdnei/mitce/blob/main/img/MiaoKo-c.%20.%20.net-6723-speed.png?raw=ture)
-
-#### 2. Streaming Unlock Report
-
-![image](https://github.com/jdnei/mitce/blob/main/img/MiaoKo-c.%20.%20.net-8300-test.png?raw=ture)
-
-#### 3. Landing Entry Analysis
-
-![image](https://github.com/jdnei/mitce/blob/main/img/MiaoKo-c.%20.%20.net-8905-analyze.png?raw=ture)
