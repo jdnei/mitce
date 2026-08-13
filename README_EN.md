@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# Mitce VPN Official Address (Updated August 13, 2026)
+# Mitce VPN Official Address (Updated August 14, 2026)
 
 Mitce VPN Official Website Address</br>
 Latest Address: [mitce.io](https://to.iix.im/mt01)
